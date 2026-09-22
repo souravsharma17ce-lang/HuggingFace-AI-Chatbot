@@ -3,3 +3,8 @@
 
 # Virtual environment
 chat/
+
+chatbot.db
+chatbot.db-shm
+chatbot.db-wal
+chatbot.db-x-checkpoints-10-checkpoint.bin
